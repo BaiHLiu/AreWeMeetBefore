@@ -1,0 +1,9 @@
+.venv/
+*.jpg
+*.MP4
+*.mp4
+*.png
+*.bin
+*.jsonl
+*.txt
+.DS_Store

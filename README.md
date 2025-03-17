@@ -2,7 +2,7 @@
 
 **Video Face Recognition and Temporal Analysis Based on Insightface and Faiss**
 
-![GitHub](https://img.shields.io/github/license/catop1/AreWeMeetBefore)
+![GitHub](https://img.shields.io/github/license/BaiHLiu/AreWeMeetBefore)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 
 
